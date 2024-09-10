@@ -49,6 +49,7 @@ apresentar os dados
 ## arrays:
 
 - [x] Uma lista que contem qualquer tipo de dado
+- [x] metodos de array: push, find, forEach
 
 ## objetos:
 
