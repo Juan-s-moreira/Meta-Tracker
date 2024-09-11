@@ -76,7 +76,13 @@ apresentar os dados
 ## modulos em node.js:
 
 - [x] importação de modulos (require, commom js)
-- [x] biblioteca 'inquirer' para criar prompts interativos
+- [x] biblioteca 'inquirer' para criar prompts interativos -[x] FS (file system)
+
+## json
+
+- [x] javascript object Notation (.json)
+- [x] JSON.parse(): transforma json para js
+- [x] JSON.stringfy: transforma de js para json
 
 ## programação assincrona e promises
 
