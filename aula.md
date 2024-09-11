@@ -45,11 +45,12 @@ apresentar os dados
 - [x]Operadores de atribuição de valor: =
 - [x] opeador de concatenação: +
 - [x] operadores de comparação: == != <= >= < >
+      = [x] spread operator: ...
 
 ## arrays:
 
 - [x] Uma lista que contem qualquer tipo de dado
-- [x] metodos de array: push, find, forEach
+- [x] metodos de array: push, find, forEach, filter: HOF (higher order function)
 
 ## objetos:
 
