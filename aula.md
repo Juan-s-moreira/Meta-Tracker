@@ -45,7 +45,7 @@ apresentar os dados
 - [x]Operadores de atribuição de valor: =
 - [x] opeador de concatenação: +
 - [x] operadores de comparação: == != <= >= < >
-      = [x] spread operator: ...
+- [x] spread operator: ...
 
 ## arrays:
 
